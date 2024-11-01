@@ -30,13 +30,9 @@ Here are some ideas to get you started:
 
 ## 📫 Contact with Me :
 
-[<img align="left" alt="Linkedin" width="40" height="40" src="https://img.icons8.com/?size=512&id=13930&format=png" />][linkedin]&nbsp;&nbsp;
-[<img align="left" alt="Gmail" width="40" height="40" src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" />][Gmail]&nbsp;&nbsp;
-[<img align="left" alt="Outlook" width="40" height="40" src="https://img.icons8.com/?size=512&id=117562&format=png" />][Outlook]&nbsp;&nbsp;
-
-[linkedin]: https://www.linkedin.com/in/paula-a-pham/
-[Gmail]: mailto:paula.a.pham@gmail.com
-[Outlook]: mailto:paula.a.pham@outlook.com
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/paula-a-pham/).
+- Gmail [Gmail](mailto:paula.a.pham@gmail.com).
+- Outlook [Outlook](mailto:paula.a.pham@outlook.com).
 
 <br>
 
