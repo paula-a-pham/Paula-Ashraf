@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 📫 Contact with Me :
 
-- <a href="https://www.linkedin.com/in/paula-a-pham/" style="text-decoration: none;">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/paula-a-pham/" target="_blank">LinkedIn</a>
 - <a href="mailto:paula.a.pham@gmail.com" style="text-decoration: none;">Gmail</a>
 - <a href="mailto:paula.a.pham@outlook.com" style="text-decoration: none;">Outlook</a>
 
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="Css" alt="Css" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
 
