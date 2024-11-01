@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ## 📫 Contact with Me :
 
-- <a href="https://www.linkedin.com/in/paula-a-pham/" target="_blank">LinkedIn</a>
-- <a href="mailto:paula.a.pham@gmail.com" style="text-decoration: none;">Gmail</a>
-- <a href="mailto:paula.a.pham@outlook.com" style="text-decoration: none;">Outlook</a>
+- <a href="https://www.linkedin.com/in/paula-a-pham/">LinkedIn</a>
+- <a href="mailto:paula.a.pham@gmail.com">Gmail</a>
+- <a href="mailto:paula.a.pham@outlook.com">Outlook</a>
 
 <br>
 
