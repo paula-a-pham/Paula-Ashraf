@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <br>
   
 ## ℹ️ About Me :
-- Senior student in computer and information science ain shams university | information systems department.
-- Software Engineer | Flutter Developer.
+- Software Engineer | Frontend Developer @ Majisa Egypt.
+- Studied in Computer and Information Science Ain Shams University | Information Systems Department.
 
 <br>
 
