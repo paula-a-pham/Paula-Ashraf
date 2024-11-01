@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 📫 Contact with Me :
 
-- LinkedIn [LinkedIn](https://www.linkedin.com/in/paula-a-pham/).
+- LinkedIn https://www.linkedin.com/in/paula-a-pham/.
 - Gmail [Gmail](mailto:paula.a.pham@gmail.com).
 - Outlook [Outlook](mailto:paula.a.pham@outlook.com).
 
