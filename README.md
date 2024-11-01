@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ## 📫 Contact with Me :
 
 - <a href="https://www.linkedin.com/in/paula-a-pham/" style="text-decoration: none;">LinkedIn</a>
-- Gmail [Gmail](mailto:paula.a.pham@gmail.com).
-- Outlook [Outlook](mailto:paula.a.pham@outlook.com).
+- <a href="mailto:paula.a.pham@gmail.com" style="text-decoration: none;">Gmail</a>
+- <a href="mailto:paula.a.pham@outlook.com" style="text-decoration: none;">Outlook</a>
 
 <br>
 
