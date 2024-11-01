@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Languages :
 
-<img src="[https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png](https://www.flaticon.com/free-icon/typescript_5968381)" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
