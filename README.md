@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   
 ## ℹ️ About Me :
 - Software Engineer | Frontend Developer @ Majisa Egypt.
+- My primary focus is on designing and implementing seamless user experiences across web and mobile platforms, with a strong emphasis on Angular.
+- My expertise lies in writing clean, efficient code and applying industry best practices to develop exceptional user interfaces and dedicated to delivering high-quality solutions that enhance user engagement and satisfaction.
 - Studied in Computer and Information Science Ain Shams University | Information Systems Department.
 
 <br>
